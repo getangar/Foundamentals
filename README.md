@@ -12,6 +12,7 @@ Here the full list of the algorithms / patterns available in this solution:
 - Queue
 
 **Design patterns**
+- Singleton
 - Factory Pattern
 - Abstract Factory
 - Graphs
